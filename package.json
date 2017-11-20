@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "alexa-app-server": "^2.2.4"
+    "alexa-app-server": "^3.0.1"
   }
 }
